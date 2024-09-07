@@ -1,2 +1,2 @@
 Finance Dashboard
-[![Watch the video]https://youtu.be/diXJULYgTRU]
+[![Watch the video](https://youtu.be/diXJULYgTRU)
